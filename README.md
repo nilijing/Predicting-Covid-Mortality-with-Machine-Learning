@@ -6,7 +6,7 @@ The aim of the final project is to predict mortality among confirmed CoVID-19 pa
 
 ### Data Source
 
-- Download the Covid-19 dataset from the URL: https://www.kaggle.com/kimjihoo/coronavirusdataset
+Download the Covid-19 dataset from the URL: https://www.kaggle.com/kimjihoo/coronavirusdataset
 
 The dataset is online and publicly available with a free Kaggle account.This dataset was released by Korea Centers for Disease Control and Prevention, and it contains information the Covid-19 cases in South Korea. Use 80% of data as the training data and 20% of data as the test data. 
 
